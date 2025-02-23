@@ -1,5 +1,5 @@
 # Javascript Learning Documentation
-A code repo for javascript learning series.
+A code repo for javascript learning series. (with Hitesh Choudhury/ Chai aur Code)
 
 ---
 
